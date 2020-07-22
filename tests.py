@@ -5,7 +5,6 @@
 import requests
 
 end_points = ['http://127.0.0.1:5000/dictionary_lookup?query=པདྨ་འབྱུང་གནས་&mode=api',
-              'http://127.0.0.1:5000/dictionary_lookup?query=པདྨ་འབྱུང་གནས་&mode=api',
               'http://127.0.0.1:5000/search_texts?query=པདྨ་འབྱུང་གནས་&mode=api',
               'http://127.0.0.1:5000/find_similar?query=པདྨ་འབྱུང་གནས་&mode=api',
               'http://127.0.0.1:5000/word_statistics?query=པདྨ་&mode=api',
